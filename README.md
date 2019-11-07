@@ -14,3 +14,4 @@ Points to Note:
 - I used maps long back and revised for this sample (ignore silly mistakes in map related code)
 - UI layer is not doing business logic, ViewModel is testable and it is performing business logic
 - Fragments are interacting with each other via Activity ViewModel
+- Lazy loading is done with Map movement, Maybe a third party library can be used to get better co-ordinates in the center of the map.
