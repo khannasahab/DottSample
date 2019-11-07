@@ -52,7 +52,6 @@ class MapViewFragment : SupportMapFragment(), OnMapReadyCallback {
         mMap = googleMap
         initObserver()
         initMarkerClickListener()
-        // Add a marker in Sydney and move the camera
 
     }
 
